@@ -33,7 +33,7 @@ The ```style``` attribute is optional; defaults to "left."
 ###Images
 Place an image in the body of a story.
 
-```[related id="<WordPress id of image>"]```
+```[story-image id="<WordPress id of image>"]```
 
 ```php
 [story-image id="179428"] 

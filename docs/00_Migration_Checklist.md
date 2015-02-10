@@ -33,7 +33,7 @@ Follow these steps for each story during migration.
 
 
     * *Add in-article images.* 
-        * You add these using the ```[image]
+        * You add these using the ```[story-image]``` shortcode.
 
     * *Checkpoint: How are things looking?* Narrow your browser window. Is the page looking good? Alright! Move on. Otherwise, try moving some elements around.
 
