@@ -10,7 +10,7 @@ Follow these steps for each story during migration.
 
   In the Media Libary, select the featured image.  Then, using the original story as your basis, fill in the following: 
 
-    * *Caption.* The caption may need shortening. A good length is a tweet, but we have some wiggle room here. Try to stay under 170 characters, *not* including the image credit.
+    * *Caption.* The caption may need shortening. A good length is a tweet, but you have some wiggle room. Try to stay under 170 characters, not including the image credit.
 
     * *Alternative Text.* This is a [short description](https://support.google.com/webmasters/answer/114016?hl=en) of the image.
 
@@ -19,7 +19,7 @@ Follow these steps for each story during migration.
 4. **Choose a category.** Each story will be assigned to one category. After you select the category, be sure to uncheck the default "Uncategorized."
 
 5. **Pick spots for Don and Peggy.** For every story, we'll be including placeholders for two ads. On small- and medium-size screens, these ads will appear where you place them in the story. 
-    * Be careful about how they mingle with other story elements, like pull quotes and images. No element should appear too close to another. 
+    * Watch how they mingle with other story elements, like pull quotes and images. No element should appear too close to another. 
 
     * The ads should appear toward the top of the story. Don might work well after the 3rd graf. Try Peggy 3 grafs below that.
 
@@ -35,9 +35,9 @@ Follow these steps for each story during migration.
     * *Add in-article images.* 
         * You add these using the ```[image]
 
-    * *Checkpoint: How are things looking?* Narrow your browser window. Is the page looking good? Great! Move on. Otherwise, try moving some elements around.
+    * *Checkpoint: How are things looking?* Narrow your browser window. Is the page looking good? Alright! Move on. Otherwise, try moving some elements around.
 
-    * *Add pull quotes.* These should be no longer than a tweet--140 characters. 
+    * *Add pull quotes.* Try to keep these to the length of a tweet--140 characters. 
 
         * Note: Pull quotes do not appear on small screens.
 
