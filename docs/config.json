@@ -1,16 +1,16 @@
 {
-    "title": "The DO documentation",
-    "tagline": "How to use The DO",
+    "title": "The DO's WP documentation",
+    "tagline": "How to use The DO's CMS",
     "author": "Patrick Sinco",   
-    "image": "<base_url>img/app.png",
-    "theme": "daux-blue",
+    "image": "<base_url>img/screenshot-the-do.png",
+    "theme": "daux-navy",
     "template": "default",
     "clean_urls": true,
     "toggle_code": true,
     "breadcrumbs": false,
     "breadcrumb_separator": "Chevrons",
     "date_modified": true,
-    "float": true,
+    "float": false,
     "file_editor": false,   
     "repo": "",
     "ignore": {
@@ -20,9 +20,6 @@
     "twitter": [],
     "google_analytics": "",
     "links": {
-        "Download": "https://github.com/justinwalsh/daux.io/archive/master.zip",
-        "GitHub Repo": "https://github.com/justinwalsh/daux.io",
-        "Help/Support/Bugs": "https://github.com/justinwalsh/daux.io/issues",
-        "Made by Todaymade": "http://todaymade.com"
+        "Dev Site Admin": "https://thedodev.osteopathic.org/wp-admin"
     }
 }

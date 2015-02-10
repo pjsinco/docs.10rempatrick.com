@@ -1,9 +1,9 @@
 {
-    "title": "My Project",
+    "title": "Docs for The DO",
     "tagline": "My Stylish Documentation",
-    "author": "I, Me & Myself",
+    "author": "PJS",
     "image": "",
-    "theme": "daux-blue",
+    "theme": "daux-navy",
     "breadcrumbs": false,
     "template": "default",
     "clean_urls": false,
