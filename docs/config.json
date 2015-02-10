@@ -2,7 +2,7 @@
     "title": "The DO's WP documentation",
     "tagline": "How to use The DO's CMS",
     "author": "Patrick Sinco",   
-    "image": "<base_url>img/screenshot-the-do.png",
+    "image": "<base_url>img/screenshot-the-do.jpg",
     "theme": "daux-navy",
     "template": "default",
     "clean_urls": true,
