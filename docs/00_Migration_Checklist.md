@@ -41,6 +41,18 @@ Follow these steps for each story during migration.
 
         * Note: Pull quotes do not appear on small screens.
 
-7. **Problemos? Llamado Patricko.** x8160.
+        * You don't need to use every pull quote that appears in the original article.
+
+7. **Add the kicker.** By now you've thought of a good one.
+
+8. **Add the tags.**
+
+9. **Add other meta data as needed.** If the story is part of a series, note it in the "Series" field. In the "Schools" field, capture any COMs that are notable in the story. 
+
+10. **Add the author info,** if needed. This includes a bio and a photo.
+
+11. **Finished? Mark the status as 'Pending Review'**. 
+
+<h1 class="text-center"><em>Problemos? Llamado Patricko: x8160</em>.</h1>
 
 

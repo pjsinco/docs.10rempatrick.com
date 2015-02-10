@@ -21,7 +21,7 @@ Place a pull quote in the story.
 
 ```[pullquote style="<left | full>" quote="<quote>"]```
 
-The ```style``` attribute is optional; defaults to "left."
+The ```style``` attribute is optional; it defaults to "left."
 
 ```php
 [pullquote quote="I viewed my third year as a chance to ask questions, challenge my clinical skills and learn from anyone and everyone."]
