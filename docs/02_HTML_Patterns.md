@@ -18,13 +18,13 @@ Note: Commas, periods and other punctuation are not included in the linked text.
 
 
 ###Inline styles
-Mark italic text with the ```<em>``` tag 
+Mark italic text with the ```<em>``` tag.
 
 ```html
 Then one day, he saw an ad for an aerospace medicine fellowship in <em>The New England Journal of Medicine</em>.
 ```
 
-Use the ```<strong>``` element for bold text
+Use the ```<strong>``` element for bold text.
 ```html
 This is <strong>bold text<strong>.
 
