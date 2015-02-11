@@ -14,7 +14,7 @@ Follow these steps for each story during migration.
 
     * *Alternative Text.* This is a [short description](https://support.google.com/webmasters/answer/114016?hl=en) of the image.
 
-    * *Description*. Optional. This is the label that will appear under the featured image. A good label is often simply the name of the pictured physician.
+    * *Description*. Optional. This is the short, 2-to-4-word label that will appear under the featured image. A good label is often simply the name of the pictured physician. 
 
 4. **Choose a category.** Each story will be assigned to one category. After you select the category, be sure to uncheck the default "Uncategorized."
 

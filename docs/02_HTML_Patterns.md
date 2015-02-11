@@ -13,7 +13,7 @@ The ```<a>``` element defines a hyperlink.
 Note: Commas, periods and other punctuation are not included in the linked text.
 
 ```html
-<a href=http://www.nasa.gov/centers/johnson/slsd/about/divisions/spacemed/education/amc.html" title="Aerospace Medicine Clerkship">aerospace medicine</a>, 
+<a href=http://www.nasa.gov/centers/johnson/slsd/about/divisions/spacemed/education/amc.html" target="_blank" title="Aerospace Medicine Clerkship">aerospace medicine</a>, 
 ```
 
 
