@@ -47,7 +47,11 @@ Follow these steps for each story during migration.
 
 8. <strong style="font-size: 2em">Add the tags.</strong>
 
-9. <strong style="font-size: 2em">Add other meta data as needed.</strong> If the story is part of a series, note it in the "Series" field. In the "Schools" field, capture any COMs that are notable in the story. 
+9. <strong style="font-size: 2em">Add other meta data as needed.</strong> 
+    * If the story is part of a series, note it in the "Series" field. 
+    * In the "Schools" field, capture any COMs that are notable in the story. 
+        * Trying to figure out whether to include a school? The threshold is being useful for a sidebar that offers, "Read more stories with DOs and students from RowanSOM." So if someone is quoted and his or her school is mentioned somewhere in the story, we should capture the school. 
+
 
 10. <strong style="font-size: 2em">Add the author info,</strong> if needed. This includes a bio and a photo.
 
