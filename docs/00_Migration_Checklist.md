@@ -55,7 +55,7 @@ Follow these steps for each story during migration.
 
 10. <strong style="font-size: 2em">Add the author info,</strong> if needed. This includes a bio and a photo.
 
-11. <strong style="font-size: 2em">Finished? Mark the status as 'Pending Review'</strong>. 
+11. <strong style="font-size: 2em">Finished? Hit 'Publish.' If you see big problems, set to the status to 'Pending Review.'</strong>. 
 
 <h1 class="text-center"><em>Problemos? Llamado Patricko: x8160</em>.</h1>
 
