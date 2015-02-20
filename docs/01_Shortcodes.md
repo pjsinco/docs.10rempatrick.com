@@ -33,16 +33,19 @@ The ```style``` attribute is optional; it defaults to "left."
 ###Images
 Place an image in the body of a story.
 
-```[story-image id="<WordPress id of image>"]```
+```[story-image id="<WordPress ID of image>" size="<full | mug>"]```
+
+The ```size``` attribute is optional; it defaults to "full."
 
 ```php
 [story-image id="179428"] 
+[story-image id="179431" size="mug"] 
 ```
 
 ###Related stories
 Within the body of a story, include a reference to a related story.
 
-```[related id="<WordPress id of related story>"]```
+```[related id="<WordPress ID of related story>"]```
 
 ```php
 [related id="179415"] 
@@ -51,7 +54,7 @@ Within the body of a story, include a reference to a related story.
 ###Sidebars
 Pull in a sidebar. Recall that sidebars are their own posts
 
-```[story-sidebar id="<WordPress id of sidebar>"]```
+```[story-sidebar id="<WordPress ID of sidebar>"]```
 
 ```php
 [story-sidebar id="179468"]
