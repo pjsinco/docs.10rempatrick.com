@@ -5,14 +5,14 @@ Shortcodes make our lives much easier. With a few words, they produce lines of H
 Here is a guide the shortcodes we are using.
 
 ###Advertisements
-Place two ads into every story&mdash;one for Don, one for Peggy.
+Every story gets one ```[advertisements]``` shortcode. 
 
-On small and medium screens, a medium-rectangle ad will appear where you set the shortcode.
+On small and medium screens, two medium-rectangle ads will appear where you set the shortcode. Place the ads high in the story, but below the social icons on the left.
 
-```[advertisement id="<don | peggy>"]```
+```[advertisements]```
 
 ```php
-[advertisement id="peggy"]
+[advertisements]
 ```
 
 
