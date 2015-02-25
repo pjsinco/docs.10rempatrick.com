@@ -59,3 +59,13 @@ Pull in a sidebar. Recall that sidebars are their own posts
 ```php
 [story-sidebar id="179468"]
 ```
+
+###Videos
+Embed a video in the body of a story. The embed code is generated at the video's home on YouTube or Vimeo. Choose a custom width of 728px. The height doesn't matter.
+
+```[story-video embed="<embed code>" caption="<caption for video>"]```
+
+```php
+[story-video embed='<iframe src="//player.vimeo.com/video/119176340?color=ffffff&title=0&byline=0&portrait=0" width="728" height="410" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>' caption="Alice Chen, OMS IV, describes her decision to pursue a residency in osteopathic manipulative and her commitment to the whole-person approach of osteopathic medicine."]
+```
+
