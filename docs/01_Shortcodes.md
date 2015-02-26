@@ -9,10 +9,14 @@ Every story gets one ```[advertisements]``` shortcode.
 
 On small and medium screens, two medium-rectangle ads will appear where you set the shortcode. Place the ads high in the story, but below the social icons on the left.
 
-```[advertisements]```
+```[advertisements align="<v | h>"]```
+
+The ```align``` attribute is optional; it defaults to "v."
 
 ```php
-[advertisements]
+[advertisements]  
+
+[advertisements align="h"]  
 ```
 
 
