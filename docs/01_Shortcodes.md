@@ -4,20 +4,7 @@ Shortcodes make our lives much easier. With a few words, they produce lines of H
 
 Here is a guide the shortcodes we are using.
 
-###Advertisements
-Every story gets one ```[advertisements]``` shortcode. 
 
-On small and medium screens, two medium-rectangle ads will appear where you set the shortcode. Place the ads high in the story, but below the social icons on the left.
-
-```[advertisements align="<v | h>"]```
-
-The ```align``` attribute is optional; it defaults to "v."
-
-```php
-[advertisements]  
-
-[advertisements align="h"]  
-```
 
 
 ###Pull quotes
@@ -73,3 +60,34 @@ Embed a video in the body of a story. The embed code is generated at the video's
 [story-video embed='<iframe src="//player.vimeo.com/video/119176340?color=ffffff&title=0&byline=0&portrait=0" width="728" height="410" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>' caption="Alice Chen, OMS IV, describes her decision to pursue a residency in osteopathic manipulative and her commitment to the whole-person approach of osteopathic medicine."]
 ```
 
+###Advertisements
+Every story gets one ```[advertisements]``` shortcode. 
+
+On small and medium screens, two medium-rectangle ads will appear where you set the shortcode. Place the ads high in the story, but below the social icons on the left.
+
+```[advertisements align="<v | h>"]```
+
+The ```align``` attribute is optional; it defaults to "v."  
+<br />
+
+
+**Here's the default behavior:**  
+<br />
+<img width="350" src="/img/without-h.gif" />
+
+<br />
+<br />
+<br />
+
+
+**And here are the ads with ```align='h'```**  
+<br />
+<img width="350" src="/img/with-h.gif" />
+
+```php
+[advertisements]  
+```
+
+```php
+[advertisements align="h"]  
+```
