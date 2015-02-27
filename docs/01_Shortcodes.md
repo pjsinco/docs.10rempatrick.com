@@ -31,13 +31,51 @@ The ```style``` attribute is optional; it defaults to "left."
 ###Images
 Place an image in the body of a story.
 
-```[story-image id="<WordPress ID of image>" size="<full | mug>"]```
+```[story-image id="<WordPress ID of image>" size="<full | small | mug>"]```
 
 The ```size``` attribute is optional; it defaults to "full."
+<br />
+<br />
+
+
+**Example: default**  
+<br />
+```[story-image id="123456"]```  
+<br />
+<br />
+<img width="350" src='/img/story-image-full.jpg' />
+
+<br />
+<br />
+
+**Example: small**  
+<br />
+```[story-image id="123456" size="small"]```   
+<br />
+*Use only for vertical images. Pulls in the caption.*  
+<br />
+<br />
+<img width="350" src='/img/story-image-small.jpg' />
+
+<br />
+<br />
+
+**Example: mug**  
+<br />
+```[story-image id="123456" size="mug"]```   
+<br />
+*Use only for mugshots. Pulls in the label. No caption.*  
+<br />
+<img width="350" src='/img/story-image-mug.jpg' />
+
+<br />
+<br />
+
 
 ```php
 [story-image id="179428"] 
 [story-image id="179431" size="mug"] 
+[story-image id="179231" size="small"] 
 ```
 
 ###Related stories
