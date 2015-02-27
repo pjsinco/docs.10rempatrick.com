@@ -12,13 +12,20 @@ Place a pull quote in the story.
 
 ```[pullquote style="<left | full>" quote="<quote>"]```
 
-The ```style``` attribute is optional; it defaults to "left."
+The ```style``` attribute is optional; it defaults to "left."  
+
+**Note:** Non-alphanumeric characters within a quote may present a problem. In such cases, use the HTML entity name or HTML entity number for the character. 
+
+*Example:* To include an open square bracket within a pullquote, use ```&#91;``` to code the opening bracket.
+
+**Resource:** [HTML Entity List](http://www.freeformatter.com/html-entities.html)
 
 ```php
 [pullquote quote="I viewed my third year as a chance to ask questions, challenge my clinical skills and learn from anyone and everyone."]
 
 [pullquote style="full" quote="I viewed my third year as a chance to ask questions, challenge my clinical skills and learn from anyone and everyone."]
 
+[pullquote quote="You need to have an address, and you need to have yourself together a little bit to be able to do the application and to qualify &#91;for ACA coverage&#93;."]
 ```
 
 ###Images
