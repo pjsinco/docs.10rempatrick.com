@@ -33,10 +33,13 @@ This is <strong>bold text<strong>.
 
 
 ###Subheads
-Subheads within a story are marked up with the ```<h2>``` element, which represents a level-2 headline.
+Subheads within a story are marked up with the ```<h2>``` element, which represents a level-2 headline. An ```<h4>``` element, for sub-subheads, is also available.
 
 ```html
 <h2>Training and rehab</h2>
+
+<h2>More research needed on GMOs</h2>
+<h4>By Laura M. Rosch, DO</h4>
 ```
 
 
@@ -56,3 +59,6 @@ Each item in a list is defined by the ```<li>``` element.
   <li>Keep studying for second-level exams&mdash;they aren't as scary as first-level exams.</li> 
 </ul>
 ```
+
+###Misc
+Generate a horizontal rule with the ```<hr />``` tag.
