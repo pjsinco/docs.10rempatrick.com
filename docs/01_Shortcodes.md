@@ -1,6 +1,9 @@
 Shortcodes make our lives much easier. With a few words, they produce lines of HTML markup.
-  * The general form:  
-  ```[shortcode attribute="value" attribute="value"]```
+  * The most common form:  
+  ```[shortcode attribute_1="value" attribute_2="value"]```
+
+  * But some shortcodes wrap text:  
+  ```[shortcode]Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.[/shortcode]```
 
 Here is a guide the shortcodes we are using.
 
@@ -136,3 +139,19 @@ The ```align``` attribute is optional; it defaults to "v."
 ```php
 [advertisements align="h"]  
 ```
+
+###Editor's note
+Create an editor's note by wrapping the note's text in ```[ed-note]```
+
+```php
+[ed-note]Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.[/ed-note] 
+```
+<br />
+<br />
+**Example:**  
+<br />
+<img width="350" src='/img/ed-note-350.jpg' />
+<br />
+<br />
+
+
