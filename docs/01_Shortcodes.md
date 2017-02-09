@@ -67,18 +67,29 @@ The ```size``` attribute is optional; it defaults to "full."
 <br />
 ```[story-image id="123456" size="mug"]```   
 <br />
-*Use only for mugshots. Pulls in the label. No caption.*  
+*Min-width: 144px. Pulls in the label. No caption.*  
 <br />
 <img width="350" src='/img/story-image-mug.jpg' />
 
 <br />
 <br />
 
+**Example: stamp**  
+<br />
+```[story-image id="123456" size="stamp"]```   
+<br />
+*Min-width: 120px. Pulls in the label. No caption.*  
+<br />
+<img width="350" src='/img/story-image-stamp.jpg' />
+
+<br />
+<br />
 
 ```php
-[story-image id="179428"] 
-[story-image id="179431" size="mug"] 
+[story-image id="179231"] 
 [story-image id="179231" size="small"] 
+[story-image id="179231" size="mug"] 
+[story-image id="179231" size="stamp"] 
 ```
 
 ###Related stories
