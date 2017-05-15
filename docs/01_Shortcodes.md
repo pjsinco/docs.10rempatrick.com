@@ -165,4 +165,10 @@ Create an editor's note by wrapping the note's text in ```[ed-note]```
 <br />
 <br />
 
-
+###Popup
+```php
+[popup name="Jason Matyascik, DO" school="LECOM" res="Lorem Ipsum Dolor" cert="Family medicine/OMT"]
+```
+<img width="350" src='/img/popup350.png' />
+<br />
+<br />
