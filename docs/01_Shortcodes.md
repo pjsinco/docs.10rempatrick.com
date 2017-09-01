@@ -34,9 +34,10 @@ The ```style``` attribute is optional; it defaults to "left."
 ###Images
 Place an image in the body of a story.
 
-```[story-image id="<WordPress ID of image>" size="<full | small | mug>"]```
+```[story-image id="<WordPress ID of image>" size="<full | small | mug | stamp | original>"]```
 
-The ```size``` attribute is optional; it defaults to "full."
+The ```size``` attribute is optional; it defaults to "full."  
+Use ```size="original"``` for animated gifs.
 <br />
 <br />
 
