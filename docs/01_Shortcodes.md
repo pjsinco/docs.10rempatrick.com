@@ -32,12 +32,12 @@ The ```style``` attribute is optional; it defaults to "left."
 ```
 
 ###Images
-Place an image in the body of a story.
+Place an image in the body of a story.  
+Note: Animated gifs have their own shortcode (see below).
 
-```[story-image id="<WordPress ID of image>" size="<full | small | mug | stamp | original>"]```
+```[story-image id="<WordPress ID of image>" size="<full | small | mug | stamp"]```
 
 The ```size``` attribute is optional; it defaults to "full."  
-Use ```size="original"``` for animated gifs.
 <br />
 <br />
 
@@ -92,6 +92,16 @@ Use ```size="original"``` for animated gifs.
 [story-image id="179231" size="mug"] 
 [story-image id="179231" size="stamp"] 
 ```
+
+###Animated gif
+Within the body of a story, include an animated gif
+
+```[story-gif id="<WordPress ID of image>"]```
+
+```php
+[story-gif id="205020"] 
+```
+
 
 ###Related stories
 Within the body of a story, include a reference to a related story.
